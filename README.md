@@ -22,4 +22,5 @@ In this game, the player has to get to the water on the other side by moving aro
 
 * Udacity - intital work - https://www.udacity.com/
 * Dennis Wenrich - updates on app.js
-  * Download / clone the repository 
+  * Download / clone the repository at https://github.com/DennisM83/classic_arcade_game
+  * Open index.html file in your lastest browser
